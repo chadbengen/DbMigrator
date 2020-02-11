@@ -11,6 +11,7 @@
     <Product>EFMigrateAndSeed</Product>
     <PackageLicenseFile></PackageLicenseFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/chadbengen/EFMigrateAndSeed</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
