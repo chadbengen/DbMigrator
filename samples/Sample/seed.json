@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "default": "DataSource=:memory:" 
+  },
+  "Persons": [
+    { "Name": "John" },
+    { "Name": "Jane" }
+  ]
+}
